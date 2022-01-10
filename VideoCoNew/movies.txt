@@ -1,0 +1,9 @@
+Jumanji,Action,Dwayne,Chris,4
+Pirate,Action,Jack,Hermanson,0
+Hustle,Comedy,Jackie,Wang,0
+Spiderman,Action,Tom,Zendeya,0
+Uncharted,Action,Tom,Holland,11
+Thor,Comedy,Chris,Thompson,15
+Joker,Action,Jack,Chris,6
+Arcane,Action,Jinx,Vi,0
+
